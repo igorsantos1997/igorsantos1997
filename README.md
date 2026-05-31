@@ -1,4 +1,3 @@
-```md
 # Hi there 👋 I'm Igor Santos
 
 ### Software Engineer | Backend & Full-Stack Engineer
@@ -128,4 +127,3 @@ I'm interested in working with international teams, solving challenging engineer
 ---
 
 ⭐ Feel free to connect with me!
-```
