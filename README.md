@@ -121,7 +121,7 @@ I'm interested in working with international teams, solving challenging engineer
 
 ## 📫 Contact
 
-- LinkedIn: [https://linkedin.com/in/igoropgl](https://www.linkedin.com/in/igor-alexandre/)
+- LinkedIn: [https://linkedin.com/in/igor-alexandre](https://www.linkedin.com/in/igor-alexandre/)
 - GitHub: https://github.com/igorsantos1997
 
 ---
