@@ -107,8 +107,8 @@ Created a platform integrating multiple AI providers for image, video, and text 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=igoropgl&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoropgl&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=igorsantos1997&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsantos1997&layout=compact&hide_border=true" />
 </p>
 
 ---
